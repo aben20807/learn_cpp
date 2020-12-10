@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "env/bin/python",
+    "restructuredtext.confPath": "${workspaceFolder}/docs",
+    "restructuredtext.linter.executablePath": "restructuredtext-lint"
+}
